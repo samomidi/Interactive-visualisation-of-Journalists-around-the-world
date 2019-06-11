@@ -1,5 +1,5 @@
 # Interactive-visualisation-of-Journalists-around-the-world
-Interactgive visualisation of journalist killed, imprisoned or missing dataset in Tableau
+Interactive visualization of journalist killed, imprisoned or missing dataset in Tableau
 
 # Data
 COMMITTEE TO PROTECT JOURNALISTS: JOURNALISTS MISSING, IMPRISONED, KILLED
